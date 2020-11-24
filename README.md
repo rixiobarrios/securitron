@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+![securitron](https://user-images.githubusercontent.com/55994508/100135226-efc62880-2e4e-11eb-9afc-3f81a0ecf98f.png)
+# Securitron
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9cd3fdcf-3297-4077-8b77-fd4ab6cafbcb/deploy-status)](https://app.netlify.com/sites/securitron/deploys)
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# securitron
