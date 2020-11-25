@@ -1,4 +1,4 @@
-![securitron](https://user-images.githubusercontent.com/55994508/100135226-efc62880-2e4e-11eb-9afc-3f81a0ecf98f.png)
+![securitron-logo](https://user-images.githubusercontent.com/55994508/100149762-4c800e00-2e64-11eb-9db9-524e9c39dbae.png)
 # Securitron
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9cd3fdcf-3297-4077-8b77-fd4ab6cafbcb/deploy-status)](https://app.netlify.com/sites/securitron/deploys)

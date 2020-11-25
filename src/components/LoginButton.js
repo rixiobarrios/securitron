@@ -1,4 +1,5 @@
 import React from "react";
+import Button from '@material-ui/core/Button';
 import { useAuth0 } from '@auth0/auth0-react';
 
 const LoginButton= () => {
@@ -6,9 +7,9 @@ const LoginButton= () => {
 
     return (
         !isAuthenticated && (
-        <button onClick={() => loginWithRedirect() }>
+        <Button color="inherit" onClick={() => loginWithRedirect() }>
             Log In
-        </button>
+        </Button>
         )
     )
 }
